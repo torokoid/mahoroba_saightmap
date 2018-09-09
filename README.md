@@ -25,6 +25,7 @@
     <ul>
     <li><a href="https://torokoid.github.io/mahoroba/0240.JPG">宿泊予約はム～さんのご尽力・リンク</a></li>
     <li><a href="https://torokoid.github.io/mahoroba/6645.JPG">ス～さん、いつも遠くからの運転、お気をつけて！・リンク</a></li>
+    <li><a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/！・リンク</a></li>
   </ul>
   <ul>
     <li><a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" target="_blank">まほろば地図</a></li>
