@@ -9,6 +9,10 @@
   </head>
   <body>
   <ul>
+    <li><a href="https://torokoid.github.io/mahoroba/409.JPG">夏季休暇を利用して毎年・リンク</a></li>
+    <li><a href="https://torokoid.github.io/mahoroba/0216.JPG">歴代の記録・リンク</a></li>
+  </ul>
+  <ul>
     <li><a href="https://torokoid.github.io/mahoroba_2018/">2018年の記録</a></li>
     <li><a href="https://torokoid.github.io/mahoroba_2017/">2017年の記録</a></li>
     <li><a href="https://torokoid.github.io/mahoroba_2016/">2016年の記録</a></li>
@@ -18,7 +22,10 @@
     <li><a href="https://torokoid.github.io/mahoroba_2012/">2012年の記録</a></li>
     <li><a href="https://opa.cig2.imagegateway.net/s/cp/GtrPJYyVR4E" target="_blank">【番外編】2005(H17)年鮎パーティー</a></li>
   </ul>
-  
+    <ul>
+    <li><a href="https://torokoid.github.io/mahoroba/0240.JPG">宿泊予約はム～さんのご尽力・リンク</a></li>
+    <li><a href="https://torokoid.github.io/mahoroba/6645.JPG">ス～さん、いつも遠くからの運転、お気をつけて！・リンク</a></li>
+  </ul>
   <ul>
     <li><a href="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" target="_blank">まほろば地図</a></li>
     <li><a href="https://www.jma.go.jp/jp/highresorad/" target="_blank">気象庁、高解像度降水ナウキャスト</a></li>
