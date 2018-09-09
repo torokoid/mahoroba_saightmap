@@ -1,4 +1,4 @@
-# mahoroba_saightmap
+# mahoroba_sitemap
 <html>
 <head>
   <meta charset="UTF-8">
